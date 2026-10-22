@@ -3,3 +3,5 @@ Livros
 Linha Adicionada
 Linha Adicionada pelo GitHub na web.
 Segunda linha adicionada para teste de conflito.
+Linha adicionada localmente para teste de conflito.
+
